@@ -1,0 +1,261 @@
+[2025/04/03 15:38:40] INFO: enableReading
+
+[2025/04/03 15:38:40] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:40] INFO: Poller::updataChannel 3 Add
+
+[2025/04/03 15:38:40] INFO: Add read!
+
+[2025/04/03 15:38:40] INFO: enableReading
+
+[2025/04/03 15:38:40] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:40] INFO: Poller::updataChannel 6 Add
+
+[2025/04/03 15:38:40] INFO: Add read!
+
+[2025/04/03 15:38:40] INFO: enableReading
+
+[2025/04/03 15:38:40] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:40] INFO: Poller::updataChannel 8 Add
+
+[2025/04/03 15:38:40] INFO: Add read!
+
+[2025/04/03 15:38:40] INFO: enableReading
+
+[2025/04/03 15:38:40] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:40] INFO: Poller::updataChannel 10 Add
+
+[2025/04/03 15:38:40] INFO: Add read!
+
+[2025/04/03 15:38:40] INFO: enableReading
+
+[2025/04/03 15:38:40] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:40] INFO: Poller::updataChannel 3 Add
+
+[2025/04/03 15:38:40] INFO: Add read!
+
+[2025/04/03 15:38:40] INFO: Start listening
+
+[2025/04/03 15:38:43] INFO: epoll_fd is 3 get 1 events
+
+[2025/04/03 15:38:43] INFO: handle_read
+
+[2025/04/03 15:38:43] INFO: Accept Connection!
+
+[2025/04/03 15:38:43] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:43] INFO: handle_read
+
+[2025/04/03 15:38:43] INFO: Success Wakeup!
+
+[2025/04/03 15:38:43] INFO: enableReading
+
+[2025/04/03 15:38:43] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:43] INFO: Poller::updataChannel 6 Add
+
+[2025/04/03 15:38:43] INFO: Add read!
+
+[2025/04/03 15:38:43] INFO: New Connection Established
+
+[2025/04/03 15:38:43] INFO: Connection UP : 127.0.0.1:41454
+[2025/04/03 15:38:44] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:44] INFO: handle_read
+
+[2025/04/03 15:38:44] INFO: Success Read 2 Bytes, str is 1
+
+
+[2025/04/03 15:38:44] INFO: SendInLoop
+
+[2025/04/03 15:38:44] INFO: Success Send 2 Bytes, str is 1
+
+
+[2025/04/03 15:38:44] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:44] INFO: handle_read
+
+[2025/04/03 15:38:44] INFO: Success Read 2 Bytes, str is 2
+
+
+[2025/04/03 15:38:44] INFO: SendInLoop
+
+[2025/04/03 15:38:44] INFO: Success Send 2 Bytes, str is 2
+
+
+[2025/04/03 15:38:45] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:45] INFO: handle_read
+
+[2025/04/03 15:38:45] INFO: Success Read 2 Bytes, str is 3
+
+
+[2025/04/03 15:38:45] INFO: SendInLoop
+
+[2025/04/03 15:38:45] INFO: Success Send 2 Bytes, str is 3
+
+
+[2025/04/03 15:38:46] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:46] INFO: handle_read
+
+[2025/04/03 15:38:46] INFO: Success Read 2 Bytes, str is 4
+
+
+[2025/04/03 15:38:46] INFO: SendInLoop
+
+[2025/04/03 15:38:46] INFO: Success Send 2 Bytes, str is 4
+
+
+[2025/04/03 15:38:46] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:46] INFO: handle_read
+
+[2025/04/03 15:38:46] INFO: Success Read 2 Bytes, str is 5
+
+
+[2025/04/03 15:38:46] INFO: SendInLoop
+
+[2025/04/03 15:38:46] INFO: Success Send 2 Bytes, str is 5
+
+
+[2025/04/03 15:38:47] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:47] INFO: handle_read
+
+[2025/04/03 15:38:47] INFO: Success Read 2 Bytes, str is 6
+
+
+[2025/04/03 15:38:47] INFO: SendInLoop
+
+[2025/04/03 15:38:47] INFO: Success Send 2 Bytes, str is 6
+
+
+[2025/04/03 15:38:47] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:47] INFO: handle_read
+
+[2025/04/03 15:38:47] INFO: Success Read 2 Bytes, str is 7
+
+
+[2025/04/03 15:38:47] INFO: SendInLoop
+
+[2025/04/03 15:38:47] INFO: Success Send 2 Bytes, str is 7
+
+
+[2025/04/03 15:38:48] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:48] INFO: handle_read
+
+[2025/04/03 15:38:48] INFO: Success Read 2 Bytes, str is 8
+
+
+[2025/04/03 15:38:48] INFO: SendInLoop
+
+[2025/04/03 15:38:48] INFO: Success Send 2 Bytes, str is 8
+
+
+[2025/04/03 15:38:48] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:48] INFO: handle_read
+
+[2025/04/03 15:38:48] INFO: Success Read 2 Bytes, str is 9
+
+
+[2025/04/03 15:38:48] INFO: SendInLoop
+
+[2025/04/03 15:38:48] INFO: Success Send 2 Bytes, str is 9
+
+
+[2025/04/03 15:38:49] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:49] INFO: handle_read
+
+[2025/04/03 15:38:49] INFO: Success Read 2 Bytes, str is 0
+
+
+[2025/04/03 15:38:49] INFO: SendInLoop
+
+[2025/04/03 15:38:49] INFO: Success Send 2 Bytes, str is 0
+
+
+[2025/04/03 15:38:50] INFO: Time_Out!
+
+[2025/04/03 15:38:50] INFO: Time_Out!
+
+[2025/04/03 15:38:50] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:50] INFO: handle_read
+
+[2025/04/03 15:38:50] INFO: Success Read 2 Bytes, str is 1
+
+
+[2025/04/03 15:38:50] INFO: SendInLoop
+
+[2025/04/03 15:38:50] INFO: Success Send 2 Bytes, str is 1
+
+
+[2025/04/03 15:38:51] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:51] INFO: handle_read
+
+[2025/04/03 15:38:51] INFO: Success Read 2 Bytes, str is 2
+
+
+[2025/04/03 15:38:51] INFO: SendInLoop
+
+[2025/04/03 15:38:51] INFO: Success Send 2 Bytes, str is 2
+
+
+[2025/04/03 15:38:51] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:51] INFO: handle_read
+
+[2025/04/03 15:38:51] INFO: Success Read 0 Bytes, str is 
+
+[2025/04/03 15:38:51] INFO: handleclose()
+
+[2025/04/03 15:38:51] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:51] INFO: Add read!
+
+[2025/04/03 15:38:51] INFO: Poller::updataChannel 6 MOD
+
+[2025/04/03 15:38:51] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:51] INFO: Add read!
+
+[2025/04/03 15:38:51] INFO: Poller::updataChannel 6 MOD
+
+[2025/04/03 15:38:51] INFO: Connection DOWN : 127.0.0.1:41454
+[2025/04/03 15:38:51] INFO: epoll_fd is 3 get 1 events
+
+[2025/04/03 15:38:51] INFO: handle_read
+
+[2025/04/03 15:38:51] INFO: Success Wakeup!
+
+[2025/04/03 15:38:51] INFO: epoll_fd is 6 get 1 events
+
+[2025/04/03 15:38:51] INFO: handle_read
+
+[2025/04/03 15:38:51] INFO: Success Wakeup!
+
+[2025/04/03 15:38:51] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:51] INFO: Add read!
+
+[2025/04/03 15:38:51] INFO: Poller::updataChannel 6 MOD
+
+[2025/04/03 15:38:51] INFO: EventLoop::updateChannel
+
+[2025/04/03 15:38:51] INFO: Add read!
+
+[2025/04/03 15:38:51] INFO: Poller::updataChannel 6 MOD
+
+[2025/04/03 15:38:51] INFO: Connection DOWN : 127.0.0.1:41454
+[2025/04/03 15:38:51] INFO: Add read!
+
